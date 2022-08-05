@@ -8,6 +8,6 @@
 - EMAIL - harshil19272@gmail.com 
 
 <!---
-codeharshil19272/codeharshil19272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+harshilgupta2002/harshilgupta2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
