@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me via my socials and email
-- TWITTER - @hxrshilgupta
-- INSTAGRAM - @harshil19272
-- EMAIL - harshil19272@gmail.com 
+- Twitter - @hxrshilgupta
+- Instagram - @hxrshilgupta
+- Mail at - harshil19272@gmail.com 
 
 <!---
 hxrshilgupta/hxrshilgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
