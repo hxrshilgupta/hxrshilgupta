@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me via my socials and email
-- Twitter - @hxrshilgupta
-- Instagram - @hxrshilgupta
 - Mail at - harshilgupta.email@gmail.com
 
 <!---
