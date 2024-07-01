@@ -1,5 +1,5 @@
 # 👋 Hi, I am Harshil!
-CSE Junior at [KIIT University](https://kiit.ac.in/)<br><br><br>Feel free to reach out : harshilgupta.email@gmail.com
+CSE Senior at [KIIT University](https://kiit.ac.in/)<br><br><br>Feel free to reach out : harshilgupta.email@gmail.com
 
 
 ## 🌐 Socials:
