@@ -3,7 +3,7 @@
 > Feel free to reach out 📫 : harshilgupta.email@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hxrshilgupta) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hxrshilgupta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hxrshilgupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hxrshilgupta) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hxrshilgupta) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hxrshilgupta) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Harshil-Gupta-36) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hxrshilgupta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hxrshilgupta) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hxrshilgupta) 
 
 # 💻 Tech Stack:
@@ -14,6 +14,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hxrshilgupta&theme=dark&hide_border=false)<br/>
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hxrshilgupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## [![wakatime](https://wakatime.com/badge/user/018d6d3c-f76f-45a0-9c11-e88ca335eff9/project/5ea7e32f-16f7-4a3f-8842-d8cda164372f.svg)](https://wakatime.com/badge/user/018d6d3c-f76f-45a0-9c11-e88ca335eff9/project/5ea7e32f-16f7-4a3f-8842-d8cda164372f)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
