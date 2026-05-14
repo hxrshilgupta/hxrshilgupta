@@ -1,5 +1,7 @@
 # 👋 Hi, I am Harshil!
-### S&S Analyst [@DeloitteIndia](https://www.deloitte.com/in/en.html) • CSE'25 Grad [KIIT University](https://kiit.ac.in/)
+### Salesforce Developer (Analyst) [@DeloitteIndia](https://www.deloitte.com/in/en.html) • CSE'25 [KIIT University](https://kiit.ac.in/)
+#### building cool finance enabling business solutions
+
 > Feel free to reach out 📫 : harshilgupta.email@gmail.com
 
 
